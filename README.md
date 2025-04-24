@@ -103,8 +103,17 @@ The following CTA Bus Tracker API endpoints are used:
 ---
 
 ## 📷 Screenshots
-
-> *(Include screenshots here once available: Main screen, Stop selection, Predictions, etc.)*
+![image](https://github.com/user-attachments/assets/4954595d-1d89-4342-a6fa-526681d76980)
+![image](https://github.com/user-attachments/assets/1b0b9a85-05af-462f-876c-94c976822018)
+![image](https://github.com/user-attachments/assets/4e7b1a0a-8d79-41c4-ad2d-f5c4b87a2dd4)
+![image](https://github.com/user-attachments/assets/9f1b6ef8-e267-49f8-94cb-d0c9611e7c6f)
+![image](https://github.com/user-attachments/assets/7f0497e2-1b0f-4a0d-9eaf-3dc4c6b61868)
+![image](https://github.com/user-attachments/assets/4ec8362b-a220-40e7-b3e4-d703485a36ec)
+![image](https://github.com/user-attachments/assets/d7979309-bd6f-4f16-9eed-6de96d5d6e2e)
+![image](https://github.com/user-attachments/assets/e033383d-55ae-4914-b6c0-eb03f50d6cbb)
+![image](https://github.com/user-attachments/assets/6ee49204-8ed2-483e-99a4-bab7174e2683)
+![image](https://github.com/user-attachments/assets/b0bad444-ffc1-4c1b-a575-27878050ac88)
+![image](https://github.com/user-attachments/assets/20b70b7f-b465-473d-8a94-97598ade7cd7)
 
 ---
 
