@@ -186,7 +186,7 @@ public class RoutesVolley {
         RequestQueue queue = Volley.newRequestQueue(mainActivityIn);
 
         Uri.Builder buildURL = Uri.parse(vehiclesUrl).buildUpon();
-        buildURL.appendQueryParameter("key", "cxWRbqrwX99a2RUK9RJrCNkYN");
+        buildURL.appendQueryParameter("key", "your API key here");
         buildURL.appendQueryParameter("format", "json");
         String urlToUse = buildURL.build().toString();
 
@@ -254,7 +254,7 @@ public class RoutesVolley {
         RequestQueue queue = Volley.newRequestQueue(context);
 
         Uri.Builder buildURL = Uri.parse("https://www.ctabustracker.com/bustime/api/v2/getdirections").buildUpon();
-        buildURL.appendQueryParameter("key", "cxWRbqrwX99a2RUK9RJrCNkYN");
+        buildURL.appendQueryParameter("key", "your API key here");
         buildURL.appendQueryParameter("format", "json");
         buildURL.appendQueryParameter("rt", routeNumber);
         String urlToUse = buildURL.build().toString();
@@ -314,7 +314,7 @@ public class RoutesVolley {
 
         // Build the URL to fetch the stops
         Uri.Builder buildURL = Uri.parse("https://www.ctabustracker.com/bustime/api/v2/getstops").buildUpon();
-        buildURL.appendQueryParameter("key", "cxWRbqrwX99a2RUK9RJrCNkYN");
+        buildURL.appendQueryParameter("key", "your API key here");
         buildURL.appendQueryParameter("format", "json");
         buildURL.appendQueryParameter("rt", routeNumber);
         buildURL.appendQueryParameter("dir", direction);  // Pass direction to the request
@@ -351,7 +351,7 @@ public class RoutesVolley {
 
         // Build the URL to fetch the stops
         Uri.Builder buildURL = Uri.parse("https://www.ctabustracker.com/bustime/api/v2/getpredictions").buildUpon();
-        buildURL.appendQueryParameter("key", "cxWRbqrwX99a2RUK9RJrCNkYN");
+        buildURL.appendQueryParameter("key", "your API key here");
         buildURL.appendQueryParameter("format", "json");
         buildURL.appendQueryParameter("rt", routeNumber);
         buildURL.appendQueryParameter("stpid", stpid);  // Pass direction to the request
@@ -386,7 +386,7 @@ public class RoutesVolley {
 
         // Build the URL to fetch the stops
         Uri.Builder buildURL = Uri.parse("https://www.ctabustracker.com/bustime/api/v2/getvehicles").buildUpon();
-        buildURL.appendQueryParameter("key", "cxWRbqrwX99a2RUK9RJrCNkYN");
+        buildURL.appendQueryParameter("key", "your API key here");
         buildURL.appendQueryParameter("format", "json");
         buildURL.appendQueryParameter("vid", vid);
         // Pass direction to the request
