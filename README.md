@@ -103,17 +103,29 @@ The following CTA Bus Tracker API endpoints are used:
 ---
 
 ## 📷 Screenshots
-![image](https://github.com/user-attachments/assets/4954595d-1d89-4342-a6fa-526681d76980)
-![image](https://github.com/user-attachments/assets/1b0b9a85-05af-462f-876c-94c976822018)
-![image](https://github.com/user-attachments/assets/4e7b1a0a-8d79-41c4-ad2d-f5c4b87a2dd4)
-![image](https://github.com/user-attachments/assets/9f1b6ef8-e267-49f8-94cb-d0c9611e7c6f)
-![image](https://github.com/user-attachments/assets/7f0497e2-1b0f-4a0d-9eaf-3dc4c6b61868)
-![image](https://github.com/user-attachments/assets/4ec8362b-a220-40e7-b3e4-d703485a36ec)
-![image](https://github.com/user-attachments/assets/d7979309-bd6f-4f16-9eed-6de96d5d6e2e)
-![image](https://github.com/user-attachments/assets/e033383d-55ae-4914-b6c0-eb03f50d6cbb)
-![image](https://github.com/user-attachments/assets/6ee49204-8ed2-483e-99a4-bab7174e2683)
-![image](https://github.com/user-attachments/assets/b0bad444-ffc1-4c1b-a575-27878050ac88)
-![image](https://github.com/user-attachments/assets/20b70b7f-b465-473d-8a94-97598ade7cd7)
+![image](https://github.com/user-attachments/assets/a81e7a44-2864-433c-b859-513aede03603)
+![image](https://github.com/user-attachments/assets/77263423-4f30-48de-b22a-0d07567f3ff2)
+![image](https://github.com/user-attachments/assets/b125c091-579f-4d44-8f1f-0456b31e5ec3)
+![image](https://github.com/user-attachments/assets/17b9fc5a-e680-4f0f-b35b-757d8b8b8003)
+![image](https://github.com/user-attachments/assets/07306d2f-4540-42e7-ab6c-14c450894626)
+![image](https://github.com/user-attachments/assets/2e59ae3b-5741-46ef-911e-76eb81b9ed78)
+![image](https://github.com/user-attachments/assets/1b492fef-8b2f-4c9c-ab46-ad3960d5252a)
+![image](https://github.com/user-attachments/assets/947a094d-5a79-46e5-a701-d9cbb514ec6e)
+![image](https://github.com/user-attachments/assets/6fbe579f-75c1-4a60-ba89-486ee0a90964)
+![image](https://github.com/user-attachments/assets/2d00ec7c-74bc-4492-99ff-53883786188c)
+![image](https://github.com/user-attachments/assets/f3608572-6f85-4051-ab06-582cbc5fedd4)
+![image](https://github.com/user-attachments/assets/1da04779-cbc2-4337-a467-c9efa05d4223)
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
